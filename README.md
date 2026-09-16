@@ -6,6 +6,7 @@ I'm a **B.Tech Artificial Intelligence & Machine Learning student** with a stron
 
 I enjoy learning how systems work, identifying security risks, and building practical projects that combine **Artificial Intelligence with Cybersecurity**.
 
+* live demo - https://rainbow-liger-d2c218.netlify.app/
 ---
 
 ## 🚀 About Me
